@@ -2,3 +2,45 @@
 *.zip -text
 **/LICENSE* -text
 **/NOTICE* -text
+
+# CURRENT PROVIDER PAYLOAD BYTES
+# Packages and checked-out provider sources must have identical bytes on every OS.
+skills/common/web-ui-design/** -text
+skills/codex/web-ui-design/** -text
+skills/claude/web-ui-design/** -text
+skills/common/ui-ux-pro-max/** -text
+skills/codex/ui-ux-pro-max/** -text
+skills/claude/ui-ux-pro-max/** -text
+skills/common/ui-styling/** -text
+skills/codex/ui-styling/** -text
+skills/claude/ui-styling/** -text
+skills/common/web-animation/** -text
+skills/codex/web-animation/** -text
+skills/claude/web-animation/** -text
+skills/common/design/** -text
+skills/codex/design/** -text
+skills/claude/design/** -text
+skills/common/design-system/** -text
+skills/codex/design-system/** -text
+skills/claude/design-system/** -text
+skills/common/brand/** -text
+skills/codex/brand/** -text
+skills/claude/brand/** -text
+skills/common/banner-design/** -text
+skills/codex/banner-design/** -text
+skills/claude/banner-design/** -text
+skills/common/slides/** -text
+skills/codex/slides/** -text
+skills/claude/slides/** -text
+skills/common/campaign-plan/** -text
+skills/codex/campaign-plan/** -text
+skills/claude/campaign-plan/** -text
+skills/common/site-seo-audit/** -text
+skills/codex/site-seo-audit/** -text
+skills/claude/site-seo-audit/** -text
+skills/common/yigit-writer/** -text
+skills/codex/yigit-writer/** -text
+skills/claude/yigit-writer/** -text
+skills/common/ai-image-video-studio/** -text
+skills/codex/ai-image-video-studio/** -text
+skills/claude/ai-image-video-studio/** -text
