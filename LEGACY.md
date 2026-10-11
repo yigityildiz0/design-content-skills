@@ -6,4 +6,4 @@ Use README and DOWNLOADS for the current edition. Old tags/downloads may contain
 
 Türkçe: Güncel kapsam current-release.json ile tanımlanır. Eski katalog ve kaynaklar izlenebilirlik için korunur; eski sayı ve test iddiaları güncel kapsam değildir. Güncel README/indirmeleri kullan. Eski sürümler farklı sağlayıcı/host varsayımları içerebilir. Gemini Deep Research güncel sürümde yoktur.
 
-[Previous README at the preserved base commit](https://github.com/yigityildiz0/design-content-skills/blob/0865ff46c40ba4667d0db4b6c3ae8147cd4ce84e/README.md).
+[Previous README at the preserved base commit](https://github.com/yigityildiz0/design-content-skills/blob/769e48b62d96cb9fc58278ffb1e40c3aa1af9dca/README.md).

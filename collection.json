@@ -26,6 +26,6 @@
     "comfyui"
   ],
   "repository": "design-content-skills",
-  "base_commit": "0865ff46c40ba4667d0db4b6c3ae8147cd4ce84e",
+  "base_commit": "769e48b62d96cb9fc58278ffb1e40c3aa1af9dca",
   "canonical_repository": "universal-ai-skill-library"
 }
