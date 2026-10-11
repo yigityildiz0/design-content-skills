@@ -1,0 +1,31 @@
+{
+  "title": "Design & Content Skills",
+  "summary": "Interface design, visual systems, writing, presentations and image/video workflows.",
+  "summary_tr": "Arayüz, görsel sistem, yazı, sunum ve görsel/video üretim iş akışları.",
+  "skills": [
+    "ai-image-video-studio",
+    "banner-design",
+    "brand",
+    "campaign-plan",
+    "design",
+    "design-system",
+    "office-docs-qa",
+    "site-seo-audit",
+    "slides",
+    "ui-styling",
+    "ui-ux-pro-max",
+    "web-animation",
+    "web-ui-design",
+    "yigit-writer"
+  ],
+  "topics": [
+    "agent-skills",
+    "design-systems",
+    "ui-ux",
+    "content-design",
+    "comfyui"
+  ],
+  "repository": "design-content-skills",
+  "base_commit": "0865ff46c40ba4667d0db4b6c3ae8147cd4ce84e",
+  "canonical_repository": "universal-ai-skill-library"
+}

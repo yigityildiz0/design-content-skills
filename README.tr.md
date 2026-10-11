@@ -1,37 +1,75 @@
-<!-- CURRENT-SKILL-PUBLICATION -->
-![Design & Content Skills](assets/collection-hero.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img src="assets/hero-light.svg" width="1280" alt="Design &amp; Content Skills — clear questions, repeatable workflows, reviewable results">
+</picture>
 
 # Design & Content Skills
 
-13 skill: kaynak araştırma, araç seçimi ve doğrulanabilir sonuç üretme için hazır iş akışları. Modelin ağırlıklarını değiştirmez; sonuç kalitesi kullanılan kaynaklara ve araçlara bağlıdır.
+[English](README.md) · [Türkçe](README.tr.md)
 
-[![Download ChatGPT](https://img.shields.io/badge/ChatGPT-Download_ZIP-10a37f?style=for-the-badge)](https://github.com/yigityildiz0/design-content-skills/raw/refs/heads/main/downloads/ChatGPT.zip) [![Download Claude](https://img.shields.io/badge/Claude-Download_ZIP-d97757?style=for-the-badge)](https://github.com/yigityildiz0/design-content-skills/raw/refs/heads/main/downloads/Claude.zip)
+**Arayüz, görsel sistem, yazı, sunum ve görsel/video üretim iş akışları.**
 
-**ChatGPT:** bütün listelenen skilleri içeren eklenti paketini indir; hesabının desteklediği kişisel eklenti/skill içe aktarma akışını kullan. Tek-skill ChatGPT bağlantısı, tek skill içeren eklenti ZIP’idir. **Claude:** toplu ZIP’i aç, içindeki tekil skill ZIP’lerini ayrı ayrı yükle. Dış ZIP tek bir Claude skill’i değildir. Yerel kurulum bulut hesabına yükleme yapmaz.
+14 bakımı sürdürülen giriş noktası. Göreve göre birini seç; tüm kütüphaneyi bağlama yükleme.
 
-Türkçe veya İngilizce doğal isteklerle kullan; aşağıdaki örnekleri kendi soruna uyarla. Kısa kelimeler seçim ipuçlarıdır; bütün platformlarda aynı slash menüsünü oluşturmaz. Mevcut iş akışları ve güvenlik kuralları korunmuştur.
+[Başla](docs/INSTALL.md) · [Katalog](https://yigityildiz0.github.io/universal-ai-skill-library/) · [İndirmeler](DOWNLOADS.md) · [Bakım modeli](MAINTAINING.md)
 
-## Skill listesi
+## Yapmak istediğin işi seç
 
-| Skill | Çözdüğü sorun / örnek istek | ChatGPT | Claude |
-|---|---|---|---|
-| [`web-ui-design`](skills/common/web-ui-design/SKILL.md) | Arayüz tasarla veya kullanılabilirliği iyileştir | [↓ ZIP](packages/chatgpt/web-ui-design.zip) | [↓ ZIP](packages/claude/web-ui-design.zip) |
-| [`ui-ux-pro-max`](skills/common/ui-ux-pro-max/SKILL.md) | UI/UX stilini, renkleri ve yazı tiplerini seç | [↓ ZIP](packages/chatgpt/ui-ux-pro-max.zip) | [↓ ZIP](packages/claude/ui-ux-pro-max.zip) |
-| [`ui-styling`](skills/common/ui-styling/SKILL.md) | Tailwind/shadcn ile arayüzü düzenle | [↓ ZIP](packages/chatgpt/ui-styling.zip) | [↓ ZIP](packages/claude/ui-styling.zip) |
-| [`web-animation`](skills/common/web-animation/SKILL.md) | Web animasyonu veya sayfa geçişi oluştur | [↓ ZIP](packages/chatgpt/web-animation.zip) | [↓ ZIP](packages/claude/web-animation.zip) |
-| [`design`](skills/common/design/SKILL.md) | Logo, ikon veya görsel tasarla | [↓ ZIP](packages/chatgpt/design.zip) | [↓ ZIP](packages/claude/design.zip) |
-| [`design-system`](skills/common/design-system/SKILL.md) | Tasarım tokenları ve bileşen sistemi oluştur | [↓ ZIP](packages/chatgpt/design-system.zip) | [↓ ZIP](packages/claude/design-system.zip) |
-| [`brand`](skills/common/brand/SKILL.md) | Marka kimliği ve iletişim dili oluştur | [↓ ZIP](packages/chatgpt/brand.zip) | [↓ ZIP](packages/claude/brand.zip) |
-| [`banner-design`](skills/common/banner-design/SKILL.md) | Banner veya kapak tasarla | [↓ ZIP](packages/chatgpt/banner-design.zip) | [↓ ZIP](packages/claude/banner-design.zip) |
-| [`slides`](skills/common/slides/SKILL.md) | Sunum veya HTML slayt hazırla | [↓ ZIP](packages/chatgpt/slides.zip) | [↓ ZIP](packages/claude/slides.zip) |
-| [`campaign-plan`](skills/common/campaign-plan/SKILL.md) | Hedef kitle, içerik, bütçe ve ölçüm planla | [↓ ZIP](packages/chatgpt/campaign-plan.zip) | [↓ ZIP](packages/claude/campaign-plan.zip) |
-| [`site-seo-audit`](skills/common/site-seo-audit/SKILL.md) | SEO denetle; teknik sorunları önceliklendir | [↓ ZIP](packages/chatgpt/site-seo-audit.zip) | [↓ ZIP](packages/claude/site-seo-audit.zip) |
-| [`yigit-writer`](skills/common/yigit-writer/SKILL.md) | Mesaj, e-posta veya yazı hazırla/düzelt | [↓ ZIP](packages/chatgpt/yigit-writer.zip) | [↓ ZIP](packages/claude/yigit-writer.zip) |
-| [`ai-image-video-studio`](skills/common/ai-image-video-studio/SKILL.md) | Görsel/video iş akışı kur; ComfyUI hatasını çöz | [↓ ZIP](packages/chatgpt/ai-image-video-studio.zip) | [↓ ZIP](packages/claude/ai-image-video-studio.zip) |
+<details open>
+<summary><strong>Öğrenme ve yazı</strong> · 2</summary>
 
-## Teknik bilgiler
+| Skill | Ne işe yarar? |
+|---|---|
+| [office-docs-qa](docs/skills/office-docs-qa.tr.md) | Belge yapısı, içerik ve görünümü açık doğrulama sınırlarıyla kontrol eder. |
+| [yigit-writer](docs/skills/yigit-writer.tr.md) | Olgusal anlamı değiştirmeden açık mesaj, yazı ve akademik metin üretir/düzenler. |
 
-Claude açıklamaları en fazla 200 karakterdir; her skill paketi en fazla 200 dosya içerir. Kaynaklar, yardımcı betikler ve lisanslar paketlenir. API anahtarları, ücretli erişim, yerel CLI ve canlı veri bağlantıları paketin parçası değildir. Kontroller paket yapısını ve kaynak eşleşmesini doğrular; hesapta yükleme, klinik doğruluk veya yatırım performansı testi yapıldığı anlamına gelmez. [Bütünlük değerleri](downloads/SHA256SUMS.txt) · [Kaynak ve lisans bilgisi](THIRD_PARTY_NOTICES.md).
+</details>
 
-<!-- END-CURRENT-SKILL-PUBLICATION -->
+<details open>
+<summary><strong>Tasarım ve üretim</strong> · 12</summary>
 
+| Skill | Ne işe yarar? |
+|---|---|
+| [ai-image-video-studio](docs/skills/ai-image-video-studio.tr.md) | Yerel ComfyUI dahil görsel/video üretimini planlar ve sorun giderir. |
+| [banner-design](docs/skills/banner-design.tr.md) | Gerçek platform ölçüsü, okunabilir mesaj ve belirgin eylem etrafında banner tasarlar. |
+| [brand](docs/skills/brand.tr.md) | Görsel kimlik, üslup ve mesajı farklı çıktılarda tutarlı tutar. |
+| [campaign-plan](docs/skills/campaign-plan.tr.md) | Kitle, kanal, içerik, kaynak ve ölçülebilir sonuçlarla kampanya planlar. |
+| [design](docs/skills/design.tr.md) | Tasarım işini uygun marka, arayüz, ikon, banner veya sunum akışına yönlendirir. |
+| [design-system](docs/skills/design-system.tr.md) | Tasarım tokenları, bileşen özellikleri ve hedef kitleye uygun sunumları bağlar. |
+| [site-seo-audit](docs/skills/site-seo-audit.tr.md) | Öneriler uygulanmış gibi göstermeden gözlenebilir teknik/içerik SEO denetimi yapar. |
+| [slides](docs/skills/slides.tr.md) | HTML, PDF ve düzenlenebilir slayt ayrımını koruyarak anlaşılır sunum yapılandırır. |
+| [ui-styling](docs/skills/ui-styling.tr.md) | Projenin mevcut bileşenlerini ve tokenlarını koruyan arayüz stili uygular. |
+| [ui-ux-pro-max](docs/skills/ui-ux-pro-max.tr.md) | Stil, palet, tipografi, grafik ve platform stackleri arasında tasarım bilgisi arar. |
+| [web-animation](docs/skills/web-animation.tr.md) | Erişilebilirlik ve mevcut entegrasyonu koruyarak GSAP/Motion örüntüleri uygular. |
+| [web-ui-design](docs/skills/web-ui-design.tr.md) | Gerçek görev, hiyerarşi, responsive düzen ve erişilebilirlik etrafında arayüz tasarlar. |
+
+</details>
+
+## Bir skill nasıl çalışır?
+
+~~~mermaid
+flowchart LR
+ A[Your goal] --> B[Match the skill]
+ B --> C[Load relevant module]
+ C --> D[Use available tools]
+ D --> E[Verify and explain]
+~~~
+
+Bu bir iş akışıdır; araç çalıştırıldığı veya bütün sonuçların doğrulandığı iddiası değildir. Her skill sayfasında örnek istek, tetikleme, mekanik, girdi/çıktı ve kaynak modüller var.
+
+## Tek kaynak, kalıcı koleksiyonlar
+
+Ana kaynak [Universal AI Skill Library](https://github.com/yigityildiz0/universal-ai-skill-library). Alan depoları aynı sürümün seçilmiş görünümleridir; ayrı ayrı çatallanıp elle düzenlenmez. Mevcut bağlantılar ve geçmiş korunur.
+
+[All collections / Tüm koleksiyonlar](COLLECTIONS.md) · [Legacy/community resources](LEGACY.md) · [Licenses & provenance](docs/LICENSE-SCOPE.md)
+
+## Dürüst kapsam
+
+- Skill kurmak model eğitmek veya hesap/araç bağlamak değildir.
+- Yerel dosya ile web hesabına yükleme farklıdır; desteklenen host akışını kullan.
+- Ek ücretli API veya model indirme otomatik yapılmaz.
+- Eski topluluk kataloğu güncel giriş noktalarının sayısına veya test iddiasına dahil değildir.
+- Kaynak lisansları korunur; bütün üçüncü taraf içeriğine tek lisans varsayılmaz.
+
+---
+Maintained by [Yigit Yildiz](https://github.com/yigityildiz0) · Source edition 2026.10.11
