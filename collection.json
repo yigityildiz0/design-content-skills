@@ -11,6 +11,7 @@
     "design-system",
     "html-slides",
     "office-docs-qa",
+    "pdf-studio",
     "presentation-studio",
     "site-seo-audit",
     "ui-styling",
@@ -27,6 +28,6 @@
     "comfyui"
   ],
   "repository": "design-content-skills",
-  "base_commit": "58da367ceaa69ca802f12bc73289a4f6cfe6ae5e",
+  "base_commit": "3ccfc60a2587f29ace0486b6576bd6413b08c90f",
   "canonical_repository": "universal-ai-skill-library"
 }
