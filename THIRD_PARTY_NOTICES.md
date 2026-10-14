@@ -10,9 +10,10 @@ Original license files stay with source; missing evidence is not an MIT grant. H
 | campaign-plan | [LICENSE](skills/common/campaign-plan/LICENSE) | evidence-present-scope-review |
 | design | [LICENSE](skills/common/design/LICENSE) | evidence-present-scope-review |
 | design-system | [LICENSE](skills/common/design-system/LICENSE) | evidence-present-scope-review |
+| html-slides | [LICENSE](skills/common/html-slides/LICENSE) | evidence-present-scope-review |
 | office-docs-qa | not supplied / sağlanmamış | root-license-not-specified |
+| presentation-studio | [LICENSE](skills/common/presentation-studio/LICENSE) | evidence-present-scope-review |
 | site-seo-audit | [LICENSE](skills/common/site-seo-audit/LICENSE) | evidence-present-scope-review |
-| slides | [LICENSE](skills/common/slides/LICENSE) | evidence-present-scope-review |
 | ui-styling | [LICENSE.txt](skills/common/ui-styling/LICENSE.txt) | evidence-present-scope-review |
 | ui-ux-pro-max | [LICENSE](skills/common/ui-ux-pro-max/LICENSE) | evidence-present-scope-review |
 | web-animation | [LICENSE](skills/common/web-animation/LICENSE) | evidence-present-scope-review |
